@@ -15,8 +15,8 @@
 <br>
 
 <h5>메인 화면</h5>
-<img src="sample1" width= 720px>
+<img src="sample1.jpg" width= 720px>
 <h5>Start 버튼 클릭</h5>
-<img src="sample2" width= 720px>
+<img src="sample2.jpg" width= 720px>
 <h5>record 기능</h5>
-<img src="sample3" width= 720px>
+<img src="sample3.jpg" width= 720px>
